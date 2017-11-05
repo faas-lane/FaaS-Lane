@@ -202,12 +202,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://www.openfaas.com/assets/images/logo.png" height="75"/>
 
-- [Homepage]()
+- [Homepage](https://blog.alexellis.io/introducing-functions-as-a-service/)
 - [Twitter]()
   - @Name
   - 20xx/0x
   - n/a
-- [Github]()
+- [Github](https://github.com/openfaas/faas)
 - [Stackshare]()
 
 </td><td width="230" valign="top">
@@ -244,6 +244,8 @@ Further aspirants for the recall:
 
 - [Apex - Go](http://apex.run/)
 - [Chalice - Python](https://github.com/aws/chalice)
+- [effe - Go](redbeardlab.tech/2016/03/05/effe.html)
+- [Graphcool Framework - GraphQL](https://www.graph.cool/)
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
 - [Sparta - Go](http://gosparta.io/)
 - [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
@@ -251,4 +253,5 @@ Further aspirants for the recall:
 
 Stuff around FaaS Solutions:
 - [Lambdacult - API Gateway](https://lambdacult.com/)
+- [faas-nomad pluginf for OpenFaaS](https://github.com/hashicorp/faas-nomad)
 

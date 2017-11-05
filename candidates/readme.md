@@ -189,7 +189,8 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="Microcule/Microcule-logo.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github](https://github.com/Stackvana/microcule)

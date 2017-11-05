@@ -98,17 +98,17 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td><td width="230" valign="top">
 
-#### Dawson
+#### dawson
 
 <img src="https://avatars0.githubusercontent.com/u/23697047" height="75"/>
 
-- [Homepage]()
+- [Homepage](https://dawson.sh)
 - [Twitter]()
   - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- [Stackshare]()
+- [Stackshare](https://stackshare.io/dawson)
 
 </td><td width="230" valign="top">
 
@@ -242,6 +242,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 Further aspirants for the recall:
 
-- [Sparta - Go](http://gosparta.io/)
+- [Apex - Go](http://apex.run/)
 - [Chalice - Python](https://github.com/aws/chalice)
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
+- [Sparta - Go](http://gosparta.io/)

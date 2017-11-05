@@ -11,6 +11,10 @@ From the DevPoint of view it could be important to find a solution where you can
 
 ### Multi Cloud-Provider Solution:
 #### Apache-OpenWhisk
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### Dawson
 #### Fabric8-Funktion
 #### Fission

@@ -170,8 +170,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: []()
 - Stackshare: n/a
 
-</td></tr>
-<tr><td width="230" valign="top">
+</td><td width="230" valign="top">
 
 #### microcule
 

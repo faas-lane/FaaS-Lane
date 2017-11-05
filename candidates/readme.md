@@ -1,6 +1,6 @@
 ## List of Candidates & Aspirants
 
-From the DevPoint of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the "Start-fast, don't think about infra & Ops"-Slogan becomes a bit obsolet.
+From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the "Start-fast, don't think about infra & Ops"-Slogan becomes a bit obsolet. From an Ops-Point of view an easy & seamless installation,even in a PrivatCloid. integrate & maintaining should be important.
 
 ### Single Cloud-Provider Solution:
 #### AWS-Lambda

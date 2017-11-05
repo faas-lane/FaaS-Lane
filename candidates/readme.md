@@ -132,7 +132,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### hook.io
 
-<img src="https://hook.io/img/logo.png" width="75"/>
+<img src="hook.io/hookio-logo.png" height="75"/>
 
 - [Homepage]()
 - Twitter: []()

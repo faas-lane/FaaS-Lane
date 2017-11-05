@@ -224,8 +224,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td></tr></table>
 
-More to come:
+Further aspirants for the recall:
 
-Serverless-Framework
-
-Chalice
+- http://gosparta.io/
+- https://github.com/aws/chalice

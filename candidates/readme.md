@@ -11,17 +11,18 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 <img src="https://img.stackshare.io/service/1909/aws-lambda.png" width="75"/>
 
+- [Homepage](https://aws.amazon.com/lambda/?nc1=h_ls)
 - Twitter: [@awscloud](https://twitter.com/awscloud)
-  - Since: 2009.08
-  - Where: Seattle, WA
-
+  - 2009/08
+  - Seattle, WA
 - Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)
-- HP: https://aws.amazon.com/lambda/?nc1=h_ls
 - Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
 
 </td><td>
 
 #### Azure-Functions
+
+<img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png"  width="75"/>
 
 - Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
 - Github: [org/proj](https://github.com/org/proj)

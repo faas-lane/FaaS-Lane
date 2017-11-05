@@ -5,7 +5,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 ### Single Cloud-Provider Solution:
 
 #### AWS-Lambda
-<img src="https://img.stackshare.io/service/1909/aws-lambda.png" width="50"/>
+<img src="https://img.stackshare.io/service/1909/aws-lambda.png" width="75"/>
 
 - Twitter: [@awscloud](https://twitter.com/awscloud) - 20xx.0x - n/a
 - Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)

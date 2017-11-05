@@ -242,5 +242,6 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 Further aspirants for the recall:
 
-- http://gosparta.io/
-- https://github.com/aws/chalice
+- [Sparta - Go](http://gosparta.io/)
+- [Chalice - Python](https://github.com/aws/chalice)
+- [Lambada - Java](https://github.com/lambadaframework/lambadaframework)

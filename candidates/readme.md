@@ -4,8 +4,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 ### Single Cloud-Provider Solution:
 
-<table>
-<tr><td width="230" valign="top">
+<table><tr><td width="230" valign="top">
 
 #### AWS-Lambda
 
@@ -51,87 +50,163 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 ### Multi Cloud-Provider Solution:
 
+<table><tr><td width="230" valign="top">
+
 #### Apache-OpenWhisk
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### claudia.js
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### Dawson
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td></tr>
+<tr><td width="230" valign="top">
 
 #### Fabric8-Funktion
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### Fission
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### fn
 
-- Twitter: [@fnproj](https://twitter.com/fnproj) - 2017.09 - n/a
-- Github: [fnproject/fn](https://github.com/fnproject/fn)
-- HP: http://fnproject.io/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td></tr>
+<tr><td width="230" valign="top">
 
 #### hook.io
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
 
+</td><td width="230" valign="top">
 
 #### IronFunctions
 
-- Twitter: [@getiron](https://twitter.com/getiron) - 2011.12 - San Francisco, CA
+<img src="" height="75"/>
+
+- [Homepage](https://www.iron.io/)
+- Twitter: [@getiron](https://twitter.com/getiron)
+  - 2011/12
+  - San Francisco, CA
 - Github: [iron-io/functions](https://github.com/iron-io/functions)
-- HP: https://www.iron.io/
 - Stackshare: [iron-io](https://stackshare.io/iron-io)
+
+</td><td width="230" valign="top">
 
 #### Kubeless
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td></tr>
+<tr><td width="230" valign="top">
 
 #### microcule
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### OpenFaas
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td><td width="230" valign="top">
 
 #### zappa
 
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
+<img src="" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
+
+</td></tr></table>

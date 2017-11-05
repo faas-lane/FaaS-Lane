@@ -13,11 +13,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://img.stackshare.io/service/1909/aws-lambda.png" height="75"/>
 
 - [Homepage](https://aws.amazon.com/lambda/?nc1=h_ls)
-- Twitter: [@awscloud](https://twitter.com/awscloud)
+- [Twitter](https://twitter.com/awscloud)
+  - @awscloud
   - 2009/08
   - Seattle, WA
 - [Github](https://github.com/awslabs/serverless-application-model)
-- Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
+- [Stackshare](https://stackshare.io/aws-lambda)
 
 </td><td width="230" valign="top">
 
@@ -26,11 +27,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -39,11 +41,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://img.stackshare.io/service/6672/google-cloud-functions.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -52,11 +55,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="hook.io/hookio-logo.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td></tr></table>
 
@@ -71,11 +75,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars2.githubusercontent.com/u/16900235" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -84,11 +89,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars-02.gitter.im/group/iv/3/57542cc5c43b8c60197765f0" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -97,11 +103,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars0.githubusercontent.com/u/23697047" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -110,11 +117,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://funktion.fabric8.io/docs/images/icon.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td></tr></table><table><tr><td width="230" valign="top">
 
@@ -124,11 +132,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="Fission/fission.png" height="75"/>
 
 - [Homepage](http://fission.io/)
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -137,11 +146,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars3.githubusercontent.com/u/30273834" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -151,11 +161,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://www.iron.io/images/logo-simple.svg" height="75"/>
 
 - [Homepage](https://www.iron.io/)
-- Twitter: [@getiron](https://twitter.com/getiron)
+- [Twitter](https://twitter.com/getiron)
+  - @getiron
   - 2011/12
   - San Francisco, CA
 - [Github](https://github.com/iron-io/functions)
-- Stackshare: [iron-io](https://stackshare.io/iron-io)
+- [Stackshare](https://stackshare.io/iron-io)
 
 </td><td width="230" valign="top">
 
@@ -164,11 +175,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars3.githubusercontent.com/u/25339039" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td></tr></table><table><tr><td width="230" valign="top">
 
@@ -181,7 +193,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
   - 20xx/0x
   - n/a
 - [Github](https://github.com/Stackvana/microcule)
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -190,11 +202,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://www.openfaas.com/assets/images/logo.png" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -203,11 +216,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="serverless/serverless-logo.png" height="75"/>
 
 - [Homepage](https://serverless.com/)
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github](https://github.com/serverless/serverless)
-- Stackshare: n/a
+- [Stackshare]()
 
 </td><td width="230" valign="top">
 
@@ -216,11 +230,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="Zappa/Zappa.jpg" height="75"/>
 
 - [Homepage]()
-- Twitter: []()
+- [Twitter]()
+  - @Name
   - 20xx/0x
   - n/a
 - [Github]()
-- Stackshare: n/a
+- [Stackshare]()
 
 </td></tr></table>
 

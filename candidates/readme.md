@@ -9,7 +9,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### AWS-Lambda
 
-<img src="https://img.stackshare.io/service/1909/aws-lambda.png" width="75"/>
+<img src="https://img.stackshare.io/service/1909/aws-lambda.png" height="75"/>
 
 - [Homepage](https://aws.amazon.com/lambda/?nc1=h_ls)
 - Twitter: [@awscloud](https://twitter.com/awscloud)
@@ -18,28 +18,33 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)
 - Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
 
-</td><td>
+</td><td valign="top">
 
 #### Azure-Functions
 
-<img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png"  width="75"/>
+<img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png" height="75"/>
+
+- [Homepage]()
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
+- Stackshare: n/a
+
+</td><td valign="top">
+
+#### Cloud-Functions
+
+<img src="https://img.stackshare.io/service/6672/google-cloud-functions.png" height="75"/>
 
 - [Homepage]()
 - Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
 - Github: [org/proj](https://github.com/org/proj)
 - Stackshare: n/a
 
-</td><td>
-
-#### Google-CloudFunctions
-
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
-- Stackshare: n/a
-
 </td>
 </tr></table>
+
 ---
 
 ### Multi Cloud-Provider Solution:

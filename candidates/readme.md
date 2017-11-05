@@ -200,7 +200,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 #### zappa
 
-<img src="" height="75"/>
+<img src="Zappa/Zappa.jpg" height="75"/>
 
 - [Homepage]()
 - Twitter: []()

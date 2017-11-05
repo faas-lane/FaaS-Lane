@@ -1,8 +1,10 @@
 # List of Candidates & Aspirants
 
-From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogan: "Start-fast, don't think about infra & Ops" becomes a bit obsolet. From an Ops-Point of view an easy & seamless installation, documentation & ci/cd integration even in a private or hybrid cloud should be important.
+From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogan: "Start-fast, don't think about serverStuff" becomes a bit obsolet. 
 
-### Single Cloud-Provider Solution:
+From an Ops-Point of view an easy & seamless installation, documentation & ci/cd integration even in a private or hybrid cloud should be important.
+
+## Single Cloud-Provider Solution:
 
 <table><tr><td width="230" valign="top">
 
@@ -47,7 +49,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 ---
 
-### Multi Cloud-Provider Solution:
+## Multi Cloud-Provider Solution:
 
 <table><tr><td width="230" valign="top">
 
@@ -145,7 +147,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### IronFunctions
 
-<img src="" height="75"/>
+<img src="https://www.iron.io/images/logo-simple.svg" height="75"/>
 
 - [Homepage](https://www.iron.io/)
 - Twitter: [@getiron](https://twitter.com/getiron)
@@ -159,7 +161,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### Kubeless
 
-<img src="" height="75"/>
+<img src="https://avatars3.githubusercontent.com/u/25339039" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -178,7 +180,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- Github: [Stackvana/microcule](https://github.com/Stackvana/microcule)
 - Stackshare: n/a
 
 </td><td width="230" valign="top">

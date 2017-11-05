@@ -253,5 +253,5 @@ Further aspirants for the recall:
 
 Stuff around FaaS Solutions:
 - [Lambdacult - API Gateway](https://lambdacult.com/)
-- [faas-nomad pluginf for OpenFaaS](https://github.com/hashicorp/faas-nomad)
+- [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
 

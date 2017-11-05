@@ -106,7 +106,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### Fission
 
-<img src="" height="75"/>
+<img src="Fission/fission.png" height="75"/>
 
 - [Homepage](http://fission.io/)
 - Twitter: []()

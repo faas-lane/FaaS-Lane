@@ -66,7 +66,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### claudia.js
 
-<img src="" height="75"/>
+<img src="https://avatars-02.gitter.im/group/iv/3/57542cc5c43b8c60197765f0" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -79,7 +79,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### Dawson
 
-<img src="" height="75"/>
+<img src="https://avatars0.githubusercontent.com/u/23697047" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -92,7 +92,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### Fabric8-Funktion
 
-<img src="" height="75"/>
+<img src="https://funktion.fabric8.io/docs/images/icon.png" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -108,7 +108,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 <img src="" height="75"/>
 
-- [Homepage]()
+- [Homepage](http://fission.io/)
 - Twitter: []()
   - 20xx/0x
   - n/a

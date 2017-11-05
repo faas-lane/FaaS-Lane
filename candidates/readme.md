@@ -5,7 +5,7 @@
 #### Azure-Functions
 #### Google-CloudFunctions
 
-
+---
 
 ### Multi Cloud-Provider Solution:
 #### Apache-OpenWhisk

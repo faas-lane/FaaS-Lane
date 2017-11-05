@@ -1,6 +1,6 @@
 # List of Candidates & Aspirants
 
-From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogon: "Start-fast, don't think about infra & Ops" becomes a bit obsolet. From an Ops-Point of view an easy & seamless installation, documentation & ci/cd integration even in a private or hybrid cloud should be important.
+From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogan: "Start-fast, don't think about infra & Ops" becomes a bit obsolet. From an Ops-Point of view an easy & seamless installation, documentation & ci/cd integration even in a private or hybrid cloud should be important.
 
 ### Single Cloud-Provider Solution:
 

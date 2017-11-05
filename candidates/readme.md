@@ -4,8 +4,20 @@ From the DevPoint of view it could be important to find a solution where you can
 
 ### Single Cloud-Provider Solution:
 #### AWS-Lambda
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### Azure-Functions
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### Google-CloudFunctions
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 
 ---
 
@@ -16,8 +28,20 @@ From the DevPoint of view it could be important to find a solution where you can
 - HP: http://homepage/
 - Stackshare: n/a
 #### Dawson
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### Fabric8-Funktion
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### Fission
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### fn
 - Twitter: [@fnproj](https://twitter.com/fnproj) - 2017.09 - n/a
 - Github: [fnproject/fn](https://github.com/fnproject/fn)
@@ -29,6 +53,22 @@ From the DevPoint of view it could be important to find a solution where you can
 - HP: https://www.iron.io/
 - Stackshare: [iron-io](https://stackshare.io/iron-io)
 #### Kubeless
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### microcule
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### OpenFaas
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
 #### zappa
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a

@@ -246,3 +246,9 @@ Further aspirants for the recall:
 - [Chalice - Python](https://github.com/aws/chalice)
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
 - [Sparta - Go](http://gosparta.io/)
+- [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
+
+
+Stuff around FaaS Solutions:
+- [Lambdacult - API Gateway](https://lambdacult.com/)
+

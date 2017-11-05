@@ -79,7 +79,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td><td width="230" valign="top">
 
-#### claudia.js
+#### Claudia.js
 
 <img src="https://avatars-02.gitter.im/group/iv/3/57542cc5c43b8c60197765f0" height="75"/>
 
@@ -172,7 +172,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td></tr></table><table><tr><td width="230" valign="top">
 
-#### microcule
+#### Microcule
 
 <img src="Microcule/Microcule-logo.png" height="75"/>
 
@@ -200,7 +200,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 #### serverless
 
-<img src="" height="75"/>
+<img src="serverless/serverless-logo.png" height="75"/>
 
 - [Homepage](https://serverless.com/)
 - Twitter: []()

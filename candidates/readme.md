@@ -89,8 +89,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: []()
 - Stackshare: n/a
 
-</td></tr>
-<tr><td width="230" valign="top">
+</td><td width="230" valign="top">
 
 #### Fabric8-Funktion
 
@@ -103,7 +102,9 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: []()
 - Stackshare: n/a
 
-</td><td width="230" valign="top">
+</td></tr>
+<tr><td width="230" valign="top">
+
 
 #### Fission
 
@@ -129,8 +130,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: []()
 - Stackshare: n/a
 
-</td></tr>
-<tr><td width="230" valign="top">
+</td><td width="230" valign="top">
 
 #### hook.io
 
@@ -156,7 +156,8 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: [iron-io/functions](https://github.com/iron-io/functions)
 - Stackshare: [iron-io](https://stackshare.io/iron-io)
 
-</td><td width="230" valign="top">
+</td></tr><tr><td width="230" valign="top">
+
 
 #### Kubeless
 

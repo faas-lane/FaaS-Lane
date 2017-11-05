@@ -1,6 +1,6 @@
 # List of Candidates & Aspirants
 
-From the Dev-Point of view it could be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogan: "Start-fast, don't think about serverStuff" becomes a bit obsolet. 
+From the Dev-Point of view it should be important to find a solution where you can jump-start with a ready-made FaaS-Cloud offering. Otherwise the No-Brainer Slogan: "Start-fast, don't think about serverStuff" becomes a bit obsolet. 
 
 From an Ops-Point of view an easy & seamless installation, documentation & ci/cd integration even in a private or hybrid cloud should be important.
 
@@ -16,7 +16,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: [@awscloud](https://twitter.com/awscloud)
   - 2009/08
   - Seattle, WA
-- Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)
+- [Github](https://github.com/awslabs/serverless-application-model)
 - Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
 
 </td><td width="230" valign="top">
@@ -29,7 +29,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -42,7 +42,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -55,7 +55,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td></tr></table>
@@ -74,7 +74,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -87,7 +87,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -100,7 +100,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -113,7 +113,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td></tr></table><table><tr><td width="230" valign="top">
@@ -127,7 +127,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -140,7 +140,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -154,7 +154,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: [@getiron](https://twitter.com/getiron)
   - 2011/12
   - San Francisco, CA
-- Github: [iron-io/functions](https://github.com/iron-io/functions)
+- [Github](https://github.com/iron-io/functions)
 - Stackshare: [iron-io](https://stackshare.io/iron-io)
 
 </td><td width="230" valign="top">
@@ -167,7 +167,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td></tr></table><table><tr><td width="230" valign="top">
@@ -180,7 +180,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: [Stackvana/microcule](https://github.com/Stackvana/microcule)
+- [Github](https://github.com/Stackvana/microcule)
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -193,7 +193,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td><td width="230" valign="top">
@@ -219,7 +219,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Twitter: []()
   - 20xx/0x
   - n/a
-- Github: []()
+- [Github]()
 - Stackshare: n/a
 
 </td></tr></table>

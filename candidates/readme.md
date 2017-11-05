@@ -36,6 +36,13 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - HP: http://homepage/
 - Stackshare: n/a
 
+#### claudia.js
+
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
+
 #### Dawson
 
 - Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
@@ -63,6 +70,14 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: [fnproject/fn](https://github.com/fnproject/fn)
 - HP: http://fnproject.io/
 - Stackshare: n/a
+
+#### hook.io
+
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
+- Github: [org/proj](https://github.com/org/proj)
+- HP: http://homepage/
+- Stackshare: n/a
+
 
 #### IronFunctions
 

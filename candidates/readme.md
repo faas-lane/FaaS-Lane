@@ -14,7 +14,7 @@
 #### Fission
 #### fn
 #### IronFunctions
-- Twitter: https://twitter.com/getiron - 2011.12 - San Francisco, CA
+- Twitter: [@getiron](https://twitter.com/getiron) - 2011.12 - San Francisco, CA
 - Github: https://github.com/iron-io/functions
 - HP: https://www.iron.io/
 

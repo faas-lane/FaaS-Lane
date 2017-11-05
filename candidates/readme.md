@@ -53,7 +53,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### Apache-OpenWhisk
 
-<img src="" height="75"/>
+<img src="https://avatars2.githubusercontent.com/u/16900235" height="75"/>
 
 - [Homepage]()
 - Twitter: []()

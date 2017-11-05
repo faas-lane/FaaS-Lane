@@ -5,7 +5,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 ### Single Cloud-Provider Solution:
 
 <table>
-<tr><td>
+<tr><td width="230" valign="top">
 
 #### AWS-Lambda
 
@@ -18,7 +18,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)
 - Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
 
-</td><td valign="top">
+</td><td width="230" valign="top">
 
 #### Azure-Functions
 
@@ -31,15 +31,17 @@ From the Dev-Point of view it could be important to find a solution where you ca
 - Github: []()
 - Stackshare: n/a
 
-</td><td valign="top">
+</td><td width="230" valign="top">
 
 #### Cloud-Functions
 
 <img src="https://img.stackshare.io/service/6672/google-cloud-functions.png" height="75"/>
 
 - [Homepage]()
-- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
-- Github: [org/proj](https://github.com/org/proj)
+- Twitter: []()
+  - 20xx/0x
+  - n/a
+- Github: []()
 - Stackshare: n/a
 
 </td>

@@ -24,9 +24,9 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 <img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png"  width="75"/>
 
+- [Homepage]()
 - Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
 - Github: [org/proj](https://github.com/org/proj)
-- HP: http://homepage/
 - Stackshare: n/a
 
 </td><td>

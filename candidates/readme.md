@@ -174,7 +174,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 #### microcule
 
-<img src="" height="75"/>
+<img src="Microcule/Microcule-logo.png" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -187,7 +187,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 #### OpenFaas
 
-<img src="" height="75"/>
+<img src="https://www.openfaas.com/assets/images/logo.png" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -210,3 +210,9 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - Stackshare: n/a
 
 </td></tr></table>
+
+More to come:
+
+Serverless-Framework
+
+Chalice

@@ -119,7 +119,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### fn
 
-<img src="" height="75"/>
+<img src="https://avatars3.githubusercontent.com/u/30273834" height="75"/>
 
 - [Homepage]()
 - Twitter: []()
@@ -132,7 +132,7 @@ From the Dev-Point of view it could be important to find a solution where you ca
 
 #### hook.io
 
-<img src="" height="75"/>
+<img src="https://hook.io/img/logo.png" width="75"/>
 
 - [Homepage]()
 - Twitter: []()

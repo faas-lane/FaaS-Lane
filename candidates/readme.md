@@ -7,13 +7,13 @@ From the Dev-Point of view it could be important to find a solution where you ca
 #### AWS-Lambda
 <img src="https://img.stackshare.io/service/1909/aws-lambda.png" width="75"/>
 
-- Twitter: [@awscloud](https://twitter.com/awscloud) - 20xx.0x - n/a
+- Twitter: [@awscloud](https://twitter.com/awscloud) - 2009.08 - Seattle, WA
 - Github: [awslabs/sam](https://github.com/awslabs/serverless-application-model)
 - HP: https://aws.amazon.com/lambda/?nc1=h_ls
 - Stackshare: [aws-lambda](https://stackshare.io/aws-lambda)
 
 #### Azure-Functions
-- Twitter: [@project](https://twitter.com/project) - 2009.08 - Seattle, WA
+- Twitter: [@project](https://twitter.com/project) - 20xx.0x - n/a
 - Github: [org/proj](https://github.com/org/proj)
 - HP: http://homepage/
 - Stackshare: n/a

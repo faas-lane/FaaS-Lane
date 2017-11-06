@@ -74,13 +74,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://avatars2.githubusercontent.com/u/16900235" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
+- [Homepage](https://openwhisk.apache.org/)
+- [Twitter](https://twitter.com/openwhisk)
+  - @openwhisk
+  - 2016/02
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/apache/incubator-openwhisk)
+- Stackshare n/a
 
 </td><td width="230" valign="top">
 

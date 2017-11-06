@@ -240,7 +240,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td></tr></table>
 
-Further aspirants for the recall:
+Further aspirants for the next recall:
 
 - [Apex - Go](http://apex.run/)
 - [Chalice - Python](https://github.com/aws/chalice)

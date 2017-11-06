@@ -88,13 +88,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://avatars-02.gitter.im/group/iv/3/57542cc5c43b8c60197765f0" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
+- [Homepage](https://claudiajs.com/)
+- Twitter: n/a
+  - @n/a 
   - 20xx/0x
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/claudiajs)
+- [Stackshare](https://stackshare.io/claudia)
 
 </td><td width="230" valign="top">
 
@@ -103,11 +103,11 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="https://avatars0.githubusercontent.com/u/23697047" height="75"/>
 
 - [Homepage](https://dawson.sh)
-- [Twitter]()
-  - @Name
+- Twitter: n/a
+  - @n/a
   - 20xx/0x
   - n/a
-- [Github]()
+- [Github](https://github.com/dawson-org)
 - [Stackshare](https://stackshare.io/dawson)
 
 </td><td width="230" valign="top">
@@ -116,13 +116,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://funktion.fabric8.io/docs/images/icon.png" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
+- [Homepage](https://funktion.fabric8.io/)
+- [Twitter](https://twitter.com/funktionio)
+  - @funktionio
+  - 2016/12
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/funktionio)
+- Stackshare: n/a
 
 </td></tr></table><table><tr><td width="230" valign="top">
 

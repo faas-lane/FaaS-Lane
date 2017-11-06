@@ -26,13 +26,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="http://storage.googleapis.com/xebia-blog/1/2017/01/Azure-function.png" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
-  - n/a
-- [Github]()
-- [Stackshare]()
+- [Homepage](https://azure.microsoft.com/en-us/services/functions/)
+- [Twitter](https://twitter.com/AzureFunctions)
+  - @AzureFunctions
+  - 2016/03
+  - Redmond, WA
+- [Github](https://github.com/Azure/Azure-Functions)
+- [Stackshare](https://stackshare.io/azure-functions)
 
 </td><td width="230" valign="top">
 
@@ -40,13 +40,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://img.stackshare.io/service/6672/google-cloud-functions.png" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
+- [Homepage](https://cloud.google.com/functions/)
+- [Twitter](https://twitter.com/googlecloud)
+  - @googlecloud 
+  - 2008/08
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/GoogleCloudPlatform/cloud-functions-emulator)
+- [Stackshare](https://stackshare.io/google-cloud-functions)
 
 </td><td width="230" valign="top">
 
@@ -54,13 +54,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="hook.io/hookio-logo.png" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
-  - n/a
-- [Github]()
-- [Stackshare]()
+- [Homepage](http://hook.io/)
+- [Twitter](https://twitter.com/hookdotio)
+  - @hookdotio
+  - 2015/08
+  - San Francisco, CA
+- [Github](https://github.com/bigcompany/hook.io)
+- Stackshare n/a
 
 </td></tr></table>
 
@@ -244,6 +244,7 @@ Further aspirants for the recall:
 
 - [Apex - Go](http://apex.run/)
 - [Chalice - Python](https://github.com/aws/chalice)
+- [Cloud Functions for Firebase](https://firebase.google.com/products/functions/?ref=stackshare)
 - [effe - Go](redbeardlab.tech/2016/03/05/effe.html)
 - [Graphcool Framework - GraphQL](https://www.graph.cool/)
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
@@ -254,4 +255,4 @@ Further aspirants for the recall:
 Stuff around FaaS Solutions:
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
-
+- [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)

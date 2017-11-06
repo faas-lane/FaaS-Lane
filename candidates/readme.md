@@ -256,4 +256,4 @@ Stuff around FaaS Solutions:
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)
-- [zeebe Orchastration Engine by Camunda] (https://zeebe.io/)
+- [zeebe Orchastration Engine by Camunda](https://zeebe.io/)

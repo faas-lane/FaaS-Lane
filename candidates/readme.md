@@ -253,6 +253,7 @@ Further aspirants for the recall:
 
 
 Stuff around FaaS Solutions:
+- [AWS Step Function - WorklowEngine for Lambda](https://aws.amazon.com/de/step-functions/)
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)

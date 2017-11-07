@@ -217,12 +217,12 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 <img src="serverless/serverless-logo.png" height="75"/>
 
 - [Homepage](https://serverless.com/)
-- [Twitter]()
-  - @Name
-  - 20xx/0x
-  - n/a
+- [Twitter](https://twitter.com/goserverless)
+  - @goserverless 
+  - 2015/11
+  - San Francisco, CA
 - [Github](https://github.com/serverless/serverless)
-- [Stackshare]()
+- [Stackshare](https://stackshare.io/serverless)
 
 </td><td width="230" valign="top">
 
@@ -230,13 +230,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="Zappa/Zappa.jpg" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
+- [Homepage](https://www.zappa.io/)
+- Twitter: n/a
+  - @n/a
   - 20xx/0x
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/Miserlou/Zappa)
+- [Stackshare](https://stackshare.io/zappa)
 
 </td></tr></table>
 

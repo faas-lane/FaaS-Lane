@@ -251,6 +251,7 @@ Further aspirants for the next recall:
 - [nuclio - kubernetes](https://github.com/nuclio)
 - [Sparta - Go](http://gosparta.io/)
 - [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
+- [webtask.io - NodeJS](https://webtask.io/)
 
 
 Stuff around FaaS Solutions:

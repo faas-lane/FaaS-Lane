@@ -188,13 +188,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="Microcule/Microcule-logo.png" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
+- [Homepage](https://github.com/Stackvana/microcule)
+- Twitter: n/a
+  - @n(a
   - 20xx/0x
   - n/a
 - [Github](https://github.com/Stackvana/microcule)
-- [Stackshare]()
+- Stackshare: n/a
 
 </td><td width="230" valign="top">
 
@@ -202,13 +202,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://www.openfaas.com/assets/images/logo.png" height="75"/>
 
-- [Homepage](https://blog.alexellis.io/introducing-functions-as-a-service/)
-- [Twitter]()
-  - @Name
-  - 20xx/0x
-  - n/a
-- [Github](https://github.com/openfaas/faas)
-- [Stackshare]()
+- [Homepage](https://www.openfaas.com/)
+- [Twitter](https://twitter.com/openfaas)
+  - @openfaas
+  - 2017/08
+  - San Francisco, CA
+- [Github](https://github.com/openfaas)
+- Stackshare: n/a 
 
 </td><td width="230" valign="top">
 
@@ -257,6 +257,7 @@ Stuff around FaaS Solutions:
 - [AWS Step Function - WorklowEngine for Lambda](https://aws.amazon.com/de/step-functions/)
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
+- [faas-netes - OpenFaas on kubernetes](https://github.com/openfaas/faas-netes)
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)
 - [nats.io - Messaging](http://nats.io/)
 - [zeebe Orchestration Engine by Camunda](https://zeebe.io/)

@@ -127,17 +127,17 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 </td></tr></table><table><tr><td width="230" valign="top">
 
 
-#### Fission
+#### fission
 
 <img src="Fission/fission.png" height="75"/>
 
 - [Homepage](http://fission.io/)
-- [Twitter]()
-  - @Name
-  - 20xx/0x
+- [Twitter](https://twitter.com/fissionio)
+  - @fissionio
+  - 2016/09
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/fission)
+- [Stackshare](https://stackshare.io/fission)
 
 </td><td width="230" valign="top">
 
@@ -145,13 +145,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://avatars3.githubusercontent.com/u/30273834" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
-  - 20xx/0x
+- [Homepage](http://fnproject.io/)
+- [Twitter](https://twitter.com/fnproj)
+  - @fnproj 
+  - 2017/09
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/fnproject)
+- Stackshare: n/a
 
 </td><td width="230" valign="top">
 
@@ -174,13 +174,13 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 <img src="https://avatars3.githubusercontent.com/u/25339039" height="75"/>
 
-- [Homepage]()
-- [Twitter]()
-  - @Name
+- [Homepage](http://kubeless.io/)
+- Twitter: n/a
+  - @n/a
   - 20xx/0x
   - n/a
-- [Github]()
-- [Stackshare]()
+- [Github](https://github.com/kubeless)
+- [Stackshare](https://stackshare.io/kubeless)
 
 </td></tr></table><table><tr><td width="230" valign="top">
 
@@ -248,6 +248,7 @@ Further aspirants for the next recall:
 - [effe - Go](redbeardlab.tech/2016/03/05/effe.html)
 - [Graphcool Framework - GraphQL](https://www.graph.cool/)
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
+- [nuclio - kubernetes](https://github.com/nuclio)
 - [Sparta - Go](http://gosparta.io/)
 - [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
 
@@ -257,4 +258,5 @@ Stuff around FaaS Solutions:
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)
+- [nats.io - Messaging](http://nats.io/)
 - [zeebe Orchestration Engine by Camunda](https://zeebe.io/)

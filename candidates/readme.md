@@ -240,7 +240,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 
 </td></tr></table>
 
-Further aspirants for the next recall:
+###Further aspirants for the next recall:
 
 - [Apex - Go](http://apex.run/)
 - [Chalice - Python](https://github.com/aws/chalice)
@@ -254,7 +254,7 @@ Further aspirants for the next recall:
 - [webtask.io - NodeJS](https://webtask.io/)
 
 
-Stuff around FaaS Solutions:
+###Stuff around FaaS Solutions:
 - [AWS Step Function - WorklowEngine for Lambda](https://aws.amazon.com/de/step-functions/)
 - [Lambdacult - API Gateway](https://lambdacult.com/)
 - [faas-nomad plugin for OpenFaaS](https://github.com/hashicorp/faas-nomad)
@@ -262,3 +262,10 @@ Stuff around FaaS Solutions:
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)
 - [nats.io - Messaging](http://nats.io/)
 - [zeebe Orchestration Engine by Camunda](https://zeebe.io/)
+
+###MicroFlow Solution:
+- [IFTTT - If This Than Tha](https://ifttt.com/)
+- [Zapier - Microflow Service](https://zapier.com/)
+
+###Faasabled - made with Serverless concepts behind
+- [AVS - Alexa Voice Services](https://developer.amazon.com/de/alexa)

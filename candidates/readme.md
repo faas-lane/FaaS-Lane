@@ -250,6 +250,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - [Lambada - Java](https://github.com/lambadaframework/lambadaframework)
 - [nuclio - kubernetes](https://github.com/nuclio)
 - [Sparta - Go](http://gosparta.io/)
+- [Spotinst - Multiple](https://spotinst.com/)
 - [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
 - [webtask.io - NodeJS](https://webtask.io/)
 

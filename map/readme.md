@@ -15,7 +15,7 @@ Two Planets:
   * ... Not only Containers
     * Trying to bypass containers to avoid further dependencies
     
- * Red: FaaS & Devops (CI/CD, QA, Security, Performance)
+ * Red: FaaS & DevOxx (CI/CD, QA, Security, Performance)
  
  * Yellow: Libs & Tools
    * Libraries
@@ -27,5 +27,5 @@ Two Planets:
  
 ## AWS Lambda
 * Blue: Lambda-Frameworks
-* Red: DevOps-Solutions
+* Red: DevOxx-Solutions
 * Yellow: Libs & Tools

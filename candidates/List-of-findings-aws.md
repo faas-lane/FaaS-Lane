@@ -1,0 +1,47 @@
+--------------------------------
+FaaS-Lane Serverles-Friendly Map
+--------------------------------
+
+
+--------------------------------
+AWS-Lambda ...
+--------------------------------
+[Blue Button]
+... Frameworks
+Apex: Helps build, deploy, and manage AWS Lambda functions
+AWS Chalice: Python serverless microframework for AWS
+Claudiajs: Automates all the error-prone deployment and configuration tasks, and sets everything up the way JavaScript developers expect out of the box
+Dawson: Serverless web framework for Node.js on AWS
+EFFE: Open source implementation of AWS Lambda
+Scar: Framework to transparently execute containers out of Docker images in AWS Lambda
+Zappa: Helps developers build and deploy server-less Python applications on AWS Lambda and API Gateway
+Sparta: Go framework for AWS Lambda microservices
+Deep: Full-stack NodeJS framework for cloud-native web applications for AWS - https://github.com/MitocGroup/deep-framework
+
+[Red Button]
+... DevOps-Tools
+Stackery: AWS Serverless operations console that provides automation, predictable performance, and operational control
+Step Function: WorklowEngine for Lambda
+Kappa: Command line tool to make it easier to deploy, update, and test functions for AWS Lambda.
+Lambda-uploader: Helps package and upload Python lambda functions to AWS
+Lambdify: Convenient functions to transform sympy expressions to lambda functions which can be used to calculate numerical values very fast
+Node Lambda: Command line tool to locally run and deploy your node.js application to Amazon Lambda
+Lambdoku: Heroku-like experience when using AWS Lambda
+Dashbird: Monitoring, analytics and error tracking of Lambda functions
+IOPipe: Application performance monitoring for Lambda
+Gordon: Tool to create, wire and deploy AWS Lambdas using CloudFormation
+Lambder: Simplifies the creation and deployment of cron jobs
+LambCI: A continuous integration system built on AWS Lambda
+Lambdacult: Open-source continuous integration tool built on AWS Lambda
+
+[Yellow Button]
+... Building API's:
+Shep: Framework for building APIs using AWS API Gateway and Lambda
+Lambda-restify: Restify/expressjs like interface for AWS Lambda with API Gateway
+Lambda Forest: Microframework that provides a set of tools to make it easier to develop REST API’s using the AWS Lambda and AWS API Gateway
+
+... Libraries:
+AWS SAM: Prescribes rules for expressing serverless applications on AWS
+Python-λ: Library for developing and deploying serverless Python code in AWS Lambda
+Lambada: JAX-RS implementation for AWS Lambda
+AVS: Alexa Voice Services

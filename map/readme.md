@@ -17,7 +17,7 @@ Two Planets:
   * ... Plugins & Addons (3)
     * Adding Stuff to Frameworks or vice versa
     
- * Red (3): FaaS & DevOxx (CI/CD, QA, Security, Performance, Monitoring & Logging)
+ * Red (3): FaaS & DevOxx (Opsless CI/CD, QA, Security, Performance, Monitoring & Logging)
  
  * Yellow (7): Libs & Tools
    * Libraries (3)

@@ -81,4 +81,3 @@ Syncano: Serverless application platform to build powerful real-time apps
 Twilio Functions: Serverless environment to build and run your Twilio code
 Weblab.io: Platform to run functions that are self-heal and scale as needed
 
-

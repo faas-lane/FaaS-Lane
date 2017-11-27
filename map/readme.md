@@ -2,9 +2,9 @@
 
 Two Planets:
 
-AWS Lambda
+## AWS Lambda
 
-FaaS ... (non AWS)
- Green: ... Runtime Platforms ...
- ... Cloud-based
- ... FaaS-centric
+## FaaS ... (non AWS)
+* Green: ... Runtime Platforms ...
+  * ... Cloud-based
+  * ... FaaS-centric

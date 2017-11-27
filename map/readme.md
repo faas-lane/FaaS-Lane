@@ -1,11 +1,11 @@
-# Overview of the Colors and the categories
+# Overview of the colored categories
 
 Two Planets:
 
 ## FaaS ... (non AWS)
 * Green (10): FaaS-Runtime Platforms ...
   * ... Cloud-based (6)
-    * FaaS platform which ar embedded inside a public cloud
+    * FaaS platform which are embedded inside a public cloud
   * ... FaaS-centric (4)
     * FaaS runtime environement upfront independent from a greater cloud
 
@@ -17,7 +17,7 @@ Two Planets:
   * ... Plugins & Addons (3)
     * Adding Stuff to Frameworks or vice versa
     
- * Red (3): FaaS & DevOxx (CI/CD, QA, Security, Performance)
+ * Red (3): FaaS & DevOxx (CI/CD, QA, Security, Performance, Monitoring & Logging)
  
  * Yellow (7): Libs & Tools
    * Libraries (3)
@@ -31,3 +31,5 @@ Two Planets:
 * Blue (9): Lambda-Frameworks
 * Red (13): DevOxx-Solutions
 * Yellow (7): Libs & Tools
+
+Remark: Perhaps a list of tags would be better fit, because of the overlapping of oner or another solution in different areas. But this should be a preperation for a mapping-poster. 

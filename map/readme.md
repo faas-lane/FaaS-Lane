@@ -13,7 +13,7 @@ Two Planets:
   * ... Container based
     * Docker, Kubernetes based for better scaling and process seperation, less vendor locking
   * ... Not only Containers
-    * Trying to avoid containers to avoid further dependencies
+    * Trying to bypass containers to avoid further dependencies
     
  * Red: FaaS & Devops (CI/CD, QA, Security, Performance)
  

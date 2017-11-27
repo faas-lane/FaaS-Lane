@@ -7,6 +7,23 @@ Two Planets:
 ## FaaS ... (non AWS)
 * Green: FaaS-Runtime Platforms ...
   * ... Cloud-based
-    * FaaS Solution which ar embedded inside a public cloud
+    * FaaS platform which ar embedded inside a public cloud
   * ... FaaS-centric
-    * FaaS solution upfront independent from a greater cloud
+    * FaaS runtime environement upfront independent from a greater cloud
+
+* Blue: FaaS-Frameworks & Plugins
+  * ... Container based
+    * Docker, Kubernetes based for better scaling and process seperation, less vendor locking
+  * ... Not only Containers
+    * Trying to avoid containers to avoid further dependencies
+    
+ * Red: FaaS & Devops (CI/CD, QA, Security, Performance)
+ 
+ * Yellow: Libs & Tools
+   * Libraries
+     * Libraries and Application Models for Python, Java, Alexa & more
+   * Workflow Solutions
+     * Orchestration & Coreography for Building Serverless Apps & Flows
+   * API Building Tools
+     * Tools for Helping creating APIS
+ 

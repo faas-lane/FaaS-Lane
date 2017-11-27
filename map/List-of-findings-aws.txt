@@ -1,6 +1,6 @@
---------------------------------
-FaaS-Lane Serverles-Friendly Map
---------------------------------
+------------------------------------
+FaaS-Lane Serverles-Friendly Univers
+------------------------------------
 
 
 --------------------------------
@@ -41,7 +41,7 @@ Lambda-restify: Restify/expressjs like interface for AWS Lambda with API Gateway
 Lambda Forest: Microframework that provides a set of tools to make it easier to develop REST API’s using the AWS Lambda and AWS API Gateway
 
 ... Libraries:
-AWS SAM: Prescribes rules for expressing serverless applications on AWS
+AWS SAM: Serverless Application Model describes rules and best practises for AWS Lambda
 Python-λ: Library for developing and deploying serverless Python code in AWS Lambda
 Lambada: JAX-RS implementation for AWS Lambda
 AVS: Alexa Voice Services

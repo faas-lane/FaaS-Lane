@@ -20,8 +20,8 @@ Hook-io: Creates serverless HTTPS functions instantly
 Clay: Creates serverless HTTPS functions instantly - https://www.clay.run
 Webtask: Make serverless endpoints. Runtime-Environment from Auth0 Inc. written in Node.js - https://webtask.io/
 Binaris: FaaS platform that’s optimized for predictable, low latency
-
-
+PubNub Functions: Runtime Environment to execute functions on the edge, transforming, enriching, and ﬁltering messages as they route through the PubNub network
+Twilio Functions: Build and run your Twilio code (Phone, VoIP, Messaging)
 
 [+++ Blue-Button +++]
 ... Multi-Cloud Frameworks (Container based)
@@ -32,6 +32,8 @@ OpenLambda: Apache-licensed serverless computing project, written in Go and base
 Platform9 Fission: Open-source, serverless platform built on Kubernetes with a focus on developer productivity and high performance
 Fabric8-Funktion: event-based programming model for Kubernetes
 Kubeless: Kubernetes native serverless platform by Bitname
+Gestalt LASER: serverless implementation by Galactic Fog
+Nuclio: High-performance realtime serverless event and data processing framework, docker based by Iguaz.IO
 
 ... Multi-Cloud Frameworks (Not Only Containers)
 Apache OpenWhisk: Serverless, open source cloud platform that executes functions in response to events at any scale
@@ -67,18 +69,14 @@ Zapier: Microflow Service
 
 
 ------------------------------
-Checkout:
+Pre-Incubator:
 ------------------------------
 
-Distribyte: Serverless platform (stealth)
-Galactic Fog: Container management and serverless implementation
-Iguaz.IO Nuclio: High-performance serverless event and data processing framework
+Distribyte: Run local applications across clouds automatically
 LeverOS: Open-source cloud platform that allows teams to build and deploy microservice-oriented backends
 Nano Lambda: Automated compute service which runs and scales your micro-services
-Overclock (OvrClk): Serverless platform provider that delivers high-performance workloads at the edge
+Overclock (OvrClk): Kubernetes based platform provider that delivers high-performance workloads at the edge
 OVH Functions: Lets developers run event-driven, serverless functions at scale
-PubNub Blocks: Serverless environment to execute functions on the edge, transforming, enriching, and ﬁltering messages as they route through the PubNub network
 Syncano: Serverless application platform to build powerful real-time apps
-Twilio Functions: Serverless environment to build and run your Twilio code
-Weblab.io: Platform to run functions that are self-heal and scale as needed
+Weblab.io: AWS Lambda like microservices. On steroids.
 

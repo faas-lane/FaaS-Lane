@@ -3,6 +3,9 @@
 Two Planets:
 
 ## AWS Lambda
+* Blue: Lambda-Frameworks
+* Red: DevOps-Solutions
+* Yellow: Libs & Tools
 
 ## FaaS ... (non AWS)
 * Green: FaaS-Runtime Platforms ...

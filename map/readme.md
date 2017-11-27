@@ -1,4 +1,4 @@
-# Overview of the Colors and the categories
+# Overview of the colored categories
 
 Two Planets:
 

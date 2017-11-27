@@ -2,11 +2,6 @@
 
 Two Planets:
 
-## AWS Lambda
-* Blue: Lambda-Frameworks
-* Red: DevOps-Solutions
-* Yellow: Libs & Tools
-
 ## FaaS ... (non AWS)
 * Green: FaaS-Runtime Platforms ...
   * ... Cloud-based
@@ -30,3 +25,7 @@ Two Planets:
    * API Building Tools
      * Tools for Helping creating APIS
  
+## AWS Lambda
+* Blue: Lambda-Frameworks
+* Red: DevOps-Solutions
+* Yellow: Libs & Tools

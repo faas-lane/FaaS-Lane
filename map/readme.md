@@ -32,4 +32,3 @@ Two Planets:
 * Red (13): DevOxx-Solutions
 * Yellow (7): Libs & Tools
 
-Remark: Perhaps a list of tags would be better fit, because of the overlapping of oner or another solution in different areas. But this should be a preperation for a mapping-poster. 

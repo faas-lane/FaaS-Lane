@@ -72,6 +72,17 @@ Zapier: Microflow Service
 Pre-Incubator:
 ------------------------------
 
+Hyper Func - Hyper.sh - https://docs.hyper.sh/Feature/container/func.html
+Iguazio Data Platform - iguazio - https://www.iguazio.com/
+Huawei Function Stage - Huawei - https//www.huaweicloud.com/product/functionstage.html
+Nuclio (by iguazio) - OSS - https://github.com/nuclio/nuclio
+
+
+Up - OSS - https://github.com/apex/up
+Zeit - ZEIT - https://zeit.co/
+
+Hyper - Hyper.sh - https://docs.hyper.sh/Feature/container/func.html
+
 Distribyte: Run local applications across clouds automatically
 LeverOS: Open-source cloud platform that allows teams to build and deploy microservice-oriented backends
 Nano Lambda: Automated compute service which runs and scales your micro-services

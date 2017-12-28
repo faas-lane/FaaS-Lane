@@ -8,7 +8,7 @@ FaaS-Lane Serverles-Friendly Univers
 AWS-Lambda ...
 --------------------------------
 [Blue Button]
-... Frameworks
+... Frameworks [10]
 Apex: Helps build, deploy, and manage AWS Lambda functions
 AWS Chalice: Python serverless microframework for AWS
 Claudiajs: Automates all the error-prone deployment and configuration tasks, and sets everything up the way JavaScript developers expect out of the box
@@ -21,7 +21,7 @@ Deep: Full-stack NodeJS framework for cloud-native web applications for AWS - ht
 Bender: A Java framework for creating serverless ETL functions on AWS Lambda https://github.com/Nextdoor/bender
 
 [Red Button]
-... DevOps-Tools
+... DevOps-Tools [13]
 Stackery: AWS Serverless operations console that provides automation, predictable performance, and operational control
 Step Function: WorklowEngine for Lambda
 Kappa: Command line tool to make it easier to deploy, update, and test functions for AWS Lambda.
@@ -37,12 +37,12 @@ LambCI: A continuous integration system built on AWS Lambda
 Lambdacult: Open-source continuous integration tool built on AWS Lambda
 
 [Yellow Button]
-... Building API's:
+... Building API's: [3]
 Shep: Framework for building APIs using AWS API Gateway and Lambda
 Lambda-restify: Restify/expressjs like interface for AWS Lambda with API Gateway
 Lambda Forest: Microframework that provides a set of tools to make it easier to develop REST API’s using the AWS Lambda and AWS API Gateway
 
-... Libraries:
+... Libraries: [4]
 AWS SAM: Serverless Application Model describes rules and best practises for AWS Lambda
 Python-λ: Library for developing and deploying serverless Python code in AWS Lambda
 Lambada: JAX-RS implementation for AWS Lambda

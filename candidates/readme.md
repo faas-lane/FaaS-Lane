@@ -263,6 +263,7 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - [Logic Apps - Visual Serverless Orchestration](https://azure.microsoft.com/en-us/services/logic-apps/)
 - [nats.io - Messaging](http://nats.io/)
 - [zeebe Orchestration Engine by Camunda](https://zeebe.io/)
+- [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Tibco's Golang based micro-integration strategy
 
 ### MicroFlow Solution:
 - [IFTTT - If This Than Tha](https://ifttt.com/)

@@ -253,6 +253,8 @@ From an Ops-Point of view an easy & seamless installation, documentation & ci/cd
 - [Spotinst - Multiple](https://spotinst.com/)
 - [TwillioFunctions - NodeJS](https://www.twilio.com/functions?ref=stackshare)
 - [webtask.io - NodeJS](https://webtask.io/)
+- [Riff - riff is for function](https://github.com/projectriff/riff)   
+- [Gestalt Platform](http://www.galacticfog.com/product/)   
 
 
 ### Stuff around FaaS Solutions:
